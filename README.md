@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## This Account is used for Automation for [ScarVite](https://github.com/ScarVite).<br>
+This means that normally this account is only operated using Scripts and so on.<br>
+### If you see anything Suspicious regarding this Account, message ScarVite asap.
+
 <!--
 **AutoVite/AutoVite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
